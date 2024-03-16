@@ -1,0 +1,7 @@
+ip - 149.28.182.13
+username - root
+password - 2#Vr{#Z5=X56D.6@
+
+label - jenkins-soft2412
+
+intial jenkins password - 6a45d27912454239982459dcc8881c7c

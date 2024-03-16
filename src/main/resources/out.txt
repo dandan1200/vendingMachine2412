@@ -1,0 +1,16 @@
+Smiths: 7@ 4.5
+Pringles: 7@ 5.0
+Kettle: 7@ 5.5
+Thins: 7@ 4.0
+Mineral Water: 7@ 2.5
+Sprite: 7@ 3.5
+Coca cola: 7@ 3.5
+Pepsi: 7@ 3.5
+Juice: 7@ 3.0
+Mars: 7@ 2.0
+M&M: 7@ 2.5
+Bounty: 7@ 3.0
+Snickers: 7@ 3.0
+Mentos: 7@ 1.5
+Sour patch: 7@ 4.75
+Skittles: 7@ 2.95
